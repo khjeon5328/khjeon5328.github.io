@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/8. 반반스프링/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Gatsby를 활용한 개인 Blog"}},"markdownRemark":{"id":"33dd5b3a-85ef-5720-9dd0-8aa5e147c3a5","excerpt":"오랜만에 다시금 글을쓴다. 매번 열심히 살겠다고 다짐하지만 역시나 \n 어떻게하면 달라질 수 있을까… 고민도 많이 하지만 실천이 가장 어려운 것 같다.  일단은 멋진 몸을 만드는 것을…","html":"<p> 오랜만에 다시금 글을쓴다. 매번 열심히 살겠다고 다짐하지만 역시나\n어떻게하면 달라질 수 있을까… 고민도 많이 하지만 실천이 가장 어려운 것 같다.</p>\n<p> 일단은 멋진 몸을 만드는 것을 1순위로 생각하고 있는 중이다.\n그 다음으로는 자격증… 너무 스트레스다 무슨 공부할게 너무 많은데\n공부에 흥미가 안생긴다. 왜냐하면 그 공부가 지금 내가 맡은 업무랑 연관성이\n없다는게 가장 클 것이다. 은행원이지만, 은행업무를 모르면 안되지만, 그래도 지금은\n개발이랑, 인사관련 공부를 더 하고 싶다. </p>\n<p>  규율이라는게 있으니 따르고 맞춰 가야 하지만, 조금은 불편한건 사실이다.\n빅분기부터 따고 싶은데. 그래도 집중해야지 결국에는 이또한 중요한 공부이기 때문이다. </p>","frontmatter":{"title":"8. 반반스프링","date":"June 03, 2022","description":"오랜만에 돌아온 광양의 반반스프링"}},"previous":{"fields":{"slug":"/7. 거여동/"},"frontmatter":{"title":"7. 거여동"}},"next":null},"pageContext":{"id":"33dd5b3a-85ef-5720-9dd0-8aa5e147c3a5","previousPostId":"59f24cd0-adda-5526-8bd8-354cd12d686e","nextPostId":null}},
+    "staticQueryHashes": ["2841359383","3274528899"]}
