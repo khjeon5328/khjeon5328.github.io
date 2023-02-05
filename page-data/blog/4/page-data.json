@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-paginated-js",
     "path": "/blog/4",
-    "result": {"pageContext":{"group":[{"id":"ff362a24-cde6-51a8-9455-d10767074230","excerpt":"…","fields":{"slug":"/9. 친절한 금리책/"},"frontmatter":{"date":"July 24, 2022","title":"9. 친절한 금리책","description":"오랜만에 다시금 읽은 책"}},{"id":"b0c98deb-544f-5b74-94d5-18241d247b59","excerpt":"…","fields":{"slug":"/10. 지금기분/"},"frontmatter":{"date":"August 29, 2022","title":"10. 지금기분","description":"오랜만에 다시금 읽은 책"}}],"pathPrefix":"/blog","first":false,"last":true,"index":4,"pageCount":4,"additionalContext":{}}},
+    "result": {"pageContext":{"group":[{"id":"ff362a24-cde6-51a8-9455-d10767074230","excerpt":"…","fields":{"slug":"/9. 친절한 금리책/"},"frontmatter":{"date":"July 24, 2022","title":"9. 친절한 금리책","description":"오랜만에 다시금 읽은 책"}},{"id":"b0c98deb-544f-5b74-94d5-18241d247b59","excerpt":"…","fields":{"slug":"/10. 지금기분/"},"frontmatter":{"date":"August 29, 2022","title":"10. 지금기분","description":"오랜만에 다시금 읽은 책"}},{"id":"e7ef0939-79a3-55a1-bd32-f1b23dac1fbb","excerpt":"…","fields":{"slug":"/11. Good work/"},"frontmatter":{"date":"February 05, 2023","title":"11. Good work","description":"일 잘하는 직장인만 아는 1%의 차이 업무의 신"}}],"pathPrefix":"/blog","first":false,"last":true,"index":4,"pageCount":4,"additionalContext":{}}},
     "staticQueryHashes": []}
